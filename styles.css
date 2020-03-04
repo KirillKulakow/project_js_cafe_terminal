@@ -1,0 +1,18 @@
+.left-cell {
+    padding: 20px 8px 8px 30px; 
+    text-align: left;
+}
+
+.right-cell {
+    padding: 20px 8px 8px 8px; 
+    text-align: right;
+}
+
+.right-cell-end {
+    padding: 20px 30px 8px 8px; 
+    text-align: right;
+}
+
+.closed {
+    display: none;
+}
